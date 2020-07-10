@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-10 22:29:50" Modified_Date="2020-07-10 22:30:48" Creator="user" Comments="" ID="e406762c525da0c074b2c24024261635">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-10 22:29:50" Modified_Date="2020-07-11 00:58:10" Creator="user" Comments="" ID="861fc991e07c8de2f59a8c8c5a2d985f">
   <Library_General_Settings>
     <Package_File_Name>lv_waveforms_toolkit</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\VIPM\Build</Library_Output_Folder>
@@ -111,9 +111,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -325,7 +322,7 @@
         <Path>WFT Open.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D31F763C09A8BA5F524E6D65E224C0EB</GUID>
+      <GUID>552699BD978EE6DF7B491CAB4B17A4DF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -388,7 +385,7 @@
         <Path>Analog IO\WFT AIO Enable Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FED9D199F0BEABE538028E17807AA839</GUID>
+      <GUID>FBE3BB36A10A0207051FDFCD32402B06</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -412,20 +409,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>ENV HAT.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Examples\ENV HAT.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Set Power Supply Output.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -437,7 +420,7 @@
         <Path>Examples\Set Power Supply Output.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9061184E67128D405E6F1B635868D28C</GUID>
+      <GUID>424B67129F1930F30F8A3E32C3A29E67</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -542,7 +525,7 @@
         <Path>I2C\WFT I2C Write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC94A705B4B5ED45679747CB04D56AEC</GUID>
+      <GUID>89C43B481E8FAB000157DDF40A3DEDA8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -577,7 +560,7 @@
         <Path>Power Supply\WFT PS Set Voltage.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>47DA89A377808B76DE6710DE5E7F3588</GUID>
+      <GUID>AE3D00F9ABCF1F6DDEA94A0829D94E6E</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -612,7 +595,7 @@
         <Path>WFT Session.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2B1812EA6CCA4245FED342017F308D89</GUID>
+      <GUID>1EF969BC01986CE247192E0A9D5AABF2</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
